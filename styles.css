@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.25;
+    margin: 50px;     
+}
+
+header {
+    text-align: center;
+    font-size: 100px;
+    color: #ff0000;
+    margin-top: 0%;
+}
+
+h2 {
+    font-size: 50px;
+    color: #ffffff;
+    margin-top: -10%;
+}
+
+h3 {
+    font-size: 40px;
+    color: #ffffff;
+    margin-top: auto;
+}
+
+p {
+    font-size: 20px;
+    color: #ffffff;
+    text-align: justify;
+    margin-top: -5%;
+}
+
+.review-links a {
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+footer {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: auto;
+    color: #ffffff;
+}
+
+footer a {
+    margin-top: 100px;
+    text-align: center;color: #007bff;
+    text-decoration: none;
+}
+
+html {
+    background-image: url(inception\ cover.jpg);   
+    background-size: 175%;    
+}
+
+.container {
+    display: flex;
+    height: auto;
+}
+
+.half {
+    flex: 100%;
+    border-style: none;
+    padding: 20px;
+}
+.img {
+    
+    height: min-content;
+    filter: grayscale(50%);
+}
+
+
+
+
+
+
+
+
